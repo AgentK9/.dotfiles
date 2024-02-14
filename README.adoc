@@ -1,0 +1,7 @@
+= .dotfiles
+
+== Usage
+
+git clone https://github.com/AgentK9/.dotfiles.git
+
+./.dotfiles/bootstrap.sh
