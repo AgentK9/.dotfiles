@@ -3,3 +3,5 @@
 .oh-my-zsh
 .gitmodules
 README.adoc
+bootstrap.sh
+powerlevel10k
