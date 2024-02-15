@@ -8,7 +8,7 @@ chsh -s $(which zsh)
 # set up oh-my-zsh
 WD="$HOME/.dotfiles"
 cd $WD
-git submodule init --update
+git submodule update --init
 ln -s $WD/powerlevel10k $WD/.oh-my-zsh/custom/themes/
 
 # stow stuff
